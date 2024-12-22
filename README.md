@@ -1,7 +1,6 @@
 # 💳 Bank Analysis Using SQL 🏦
 
-Welcome to the **Bank Analysis Using SQL** project! This project demonstrates the creation and management of a comprehensive banking database. It covers all major aspects of a banking system, including customer management, transactions, loans, and credit card tracking.
-
+The Bank Analysis Using SQL project provides a robust relational database for banking operations. It highlights key aspects like customer profiling, transactional insights, loan management, and credit card analysis. SQL queries drive actionable insights for real-world banking solutions.
 ---
 
 ## 📂 Project Overview
